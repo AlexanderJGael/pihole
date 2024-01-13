@@ -67,3 +67,8 @@ logbak.hicloud.com
 
 samsung-com.112.2o7.net
 analytics-api.samsunghealthcn.com
+
+https://googleads.g.doubleclick.net/pagead/id
+
+https://rr3---sn-q4flrnsd.googlevideo.com/videoplayback?expire=1705145688&ei=9yCiZZ--KKq1lu8P3cGx8Ak&ip=107.139.24.165&id=o-AH0u5pOQNvI0qQiR0iK3Crv3H-Xbjm-4tic5akr02azw&itag=396&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278%2C394%2C395%2C396%2C397%2C398%2C399&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&mh=mq&mm=31%2C26&mn=sn-q4flrnsd%2Csn-5ualdns7&ms=au%2Conr&mv=m&mvi=3&pl=21&ctier=L&pcm2=yes&initcwndbps=812500&spc=UWF9f3WUWgTco3pMo5YNQxwKyp0ZybEZ9X4m&vprv=1&svpuc=1&mime=video%2Fmp4&ns=p18P2HKjcSRs21sHgEwhbg0Q&gir=yes&clen=284507&dur=15.014&lmt=1687324039977696&mt=1705123745&fvip=4&keepalive=yes&fexp=24007246&c=WEB&txp=5537434&n=jRAgzw6o141IIg&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cxpc%2Cctier%2Cpcm2%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Cns%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRAIgZx6ZXgachDYl81rMVOWZrNrOE_M1xKbxa8dsaAegmpgCID2rcvoai0rj20fktgI3C-z5Dr_yAF3tMOC9CyYuAXEi&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AAO5W4owRQIhALp2nk0LXsNmCWeVAQMNi38vk5w1KtuBJwP5MNf5cXZVAiBI2mXlCmYDrAyqwEBETBKM0DTjLTzbNFkPVh8YNYcynw%3D%3D&alr=yes&cpn=pI7-a9TH_ZlIy25w&cver=2.20240111.09.00&range=252724-284506&rn=94&rbuf=9801&pot=MnQLm0vqgdKrzgujI-qTlAaqDXtYQHqFBrFc-fduOtOv04896htZMKIw9dREDvI7gDDtQ6ZFqF3ZpdtcaO7dg37zFhiXvpnVkv58PGScMKQi3gY11FP3JlCw-1GGcIcukElpE-9MBCIAWU0Je47xoui1XOr25g==&ump=1&srfvp=1
+
